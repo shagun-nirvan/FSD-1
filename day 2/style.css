@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;;
+}
+table{
+    width: 100px;
+    border-radius: 12px;
+    border-style: dashed;
+    border-color: blueviolet;
+    border-width: 5px;
+}
+#heading{
+    text-align: center;
+    font-size: 60px;
+    background-color: brown;
+    color: bisque;
+}
