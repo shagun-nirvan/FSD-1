@@ -4,6 +4,7 @@
 }
 table{
     width: 100px;
+    height: 80px;
     border-radius: 12px;
     border-style: dashed;
     border-color: blueviolet;
@@ -14,4 +15,10 @@ table{
     font-size: 60px;
     background-color: brown;
     color: bisque;
+}
+#row1{
+    background-color: violet;
+}
+#row2{
+    background-color: blue;
 }
