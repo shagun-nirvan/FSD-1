@@ -1,0 +1,48 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    /* height: 40px; */
+    background-color: aqua;
+}
+
+
+
+a, .lgn, .sgn
+{
+    background-color: blanchedalmond;
+    font-size: 40px;
+    border: 5px solid navy;
+    border-radius: 7px;
+    text-decoration: none;
+
+}
+a:hover
+{
+    background-color: brown;
+}
+
+.maincontent
+{
+    display: flex;
+    border: 3px solid chocolate;
+    justify-content: space-between;
+    margin: 20px;
+    height: 300px;
+    background-color: blanchedalmond;
+}
+
+table
+{
+    font-size: 30px;
+    border: 5px solid coral;
+    border-radius: 12px;
+}

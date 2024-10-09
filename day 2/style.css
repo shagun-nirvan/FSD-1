@@ -5,8 +5,7 @@
 }
 table{
     width: 100px;
-    height: 80px;
-    border-radius: 12px;
+     border-radius: 12px;
     border-style: dashed;
     border-color: blueviolet;
     border-width: 5px;
